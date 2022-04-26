@@ -9,7 +9,6 @@ output:
     fig_height: 5
     theme: cosmo
     highlight: tango
-    code_folding: hide
 ---
 
 
